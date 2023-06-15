@@ -1,0 +1,216 @@
+[27-Jul-2022 10:15:03 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/axios.php on line 36
+[27-Jul-2022 10:16:47 UTC] PHP Fatal error:  Uncaught (Status 403) (Request req_VIkGJA1XqGUhzw) This API call cannot be made with a publishable API key. Please use a secret API key. You can find a list of your API keys at https://dashboard.stripe.com/account/apikeys.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Jul-2022 10:16:47 UTC] PHP Fatal error:  Uncaught (Status 403) (Request req_FroKZkb0mTJkzZ) This API call cannot be made with a publishable API key. Please use a secret API key. You can find a list of your API keys at https://dashboard.stripe.com/account/apikeys.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Jul-2022 10:17:59 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_xnZn9deaWOF7AQ) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Jul-2022 10:17:59 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ZC8n5LaRw4v1p5) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[27-Jul-2022 10:18:01 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_9abZIWf7iELGNo) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Jul-2022 06:02:28 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_h6qIHXuAGsLOEj) Could not find payment information
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Jul-2022 09:21:49 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_YUjhhktYNHKBKX) Could not find payment information
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Jul-2022 11:17:51 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 34
+[28-Jul-2022 11:19:05 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 34
+[28-Jul-2022 11:21:58 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 34
+[28-Jul-2022 11:49:55 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 94
+[28-Jul-2022 11:50:20 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 254
+[28-Jul-2022 11:50:53 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 254
+[28-Jul-2022 11:52:48 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 234
+[28-Jul-2022 11:53:56 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 234
+[28-Jul-2022 11:54:12 UTC] PHP Warning:  A non-numeric value encountered in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/axios.php on line 31
+[28-Jul-2022 11:54:12 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_P8jNmIqwFqPXTz) This value must be greater than or equal to 1.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Jul-2022 11:55:08 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 234
+[28-Jul-2022 12:07:03 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 234
+[29-Jul-2022 03:50:01 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 234
+[29-Jul-2022 03:50:15 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_NwVBIjI9W6I5nU) Could not find payment information
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 03:54:11 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 234
+[29-Jul-2022 03:55:40 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_dTUHaMk93U36tp) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 03:55:50 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_wr0yITKWQZU0Dx) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 03:57:39 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_DJnu92oTarEeEO) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 04:27:39 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_emFPdXtsXQcf5j) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 04:27:53 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_g2HyuTrt7iekBe) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 04:28:07 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ir1KnCoLkwYoRg) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 04:29:31 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_TbruoGJAfGTyFj) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 04:32:08 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[29-Jul-2022 05:02:26 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_WjRoQjYjKTWW3V) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:02:42 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_LwEjTJuDORWiUU) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:02:54 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[29-Jul-2022 05:03:20 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_d7SlRscA5fulNR) The card number is not a valid credit card number.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:03:48 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_H5qlEGLWTnbGcR) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:03:58 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_hYtzVKKyGhIjvK) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:04:07 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_hNE48drS76kE3w) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:04:30 UTC] PHP Warning:  A non-numeric value encountered in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/axios.php on line 31
+[29-Jul-2022 05:04:30 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_3spso7zWDhv2ab) This value must be greater than or equal to 1.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:04:55 UTC] PHP Warning:  A non-numeric value encountered in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/axios.php on line 31
+[29-Jul-2022 05:04:55 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_juI5KY5xnkQgrz) This value must be greater than or equal to 1.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[29-Jul-2022 05:05:45 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[29-Jul-2022 05:06:11 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[29-Jul-2022 12:01:27 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[02-Aug-2022 04:55:17 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[02-Aug-2022 11:25:50 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[02-Aug-2022 11:27:10 UTC] PHP Warning:  A non-numeric value encountered in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/axios.php on line 31
+[02-Aug-2022 11:27:10 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_niQe074abWUiKD) This value must be greater than or equal to 1.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[02-Nov-2022 06:54:21 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_fCYUXKCG4qHAoV) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[02-Nov-2022 06:54:25 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_qqB8L1ikNSY8RP) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[02-Nov-2022 07:00:47 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[18-Nov-2022 18:00:21 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_q2FYwLWZ0bJyiv) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Nov-2022 18:00:26 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_Xc60bQnd1CXdVX) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Nov-2022 18:00:38 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_Gpy4AM7gtIM2mV) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Nov-2022 18:00:43 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_wOOkjLpGcYqP5B) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[18-Nov-2022 18:00:44 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_SnSlhLTJrJgb5k) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[04-Jan-2023 10:48:50 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ghW5PJRckxnHXn) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[04-Jan-2023 10:48:57 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_s9cRNTv51Nj6nZ) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[04-Jan-2023 10:49:04 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_5S4VNrGaAwOWTG) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 08:24:04 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_7i7ybIwVjLnHtI) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 08:24:11 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_qCEIffGxkPS1AM) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 08:24:13 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_b5VGLI9RkULOxO) Your card number is incorrect.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 13:06:35 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_IpxR8Vo4QjXpzT) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 13:06:51 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_KmB1pYW38JQ9vu) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 13:15:12 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_MDV8rUnMGVXfeL) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 13:16:39 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_6AaOfmDBepPxX8) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 13:16:51 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_K0sqBTrFe3h0GE) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-Feb-2023 13:16:58 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_rA9j8byO2xB1Bq) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Feb-2023 07:00:16 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_x36RDEPeT2ijzo) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Feb-2023 07:00:21 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_1pt46ftd5jYoip) Your card was declined. Your request was in live mode, but used a known test card.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Feb-2023 07:01:41 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_3mGw89T0F7fjID) Your account cannot currently make live charges. If you are the site owner, please activate your account at https://dashboard.stripe.com/account/onboarding to remove this limitation. If you are a customer trying to make a purchase, please contact the owner of this site. Your transaction has not been processed.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Feb-2023 07:03:50 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_kA4jsP42Zyo56r) Your account cannot currently make live charges. If you are the site owner, please activate your account at https://dashboard.stripe.com/account/onboarding to remove this limitation. If you are a customer trying to make a purchase, please contact the owner of this site. Your transaction has not been processed.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[28-Feb-2023 07:05:08 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_cGLobzXcYBuyxP) Your account cannot currently make live charges. If you are the site owner, please activate your account at https://dashboard.stripe.com/account/onboarding to remove this limitation. If you are a customer trying to make a purchase, please contact the owner of this site. Your transaction has not been processed.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[02-Mar-2023 08:29:30 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[02-Mar-2023 08:31:28 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[09-Mar-2023 13:48:15 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_TKNwjJV7WR1UsT) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:48:36 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_nLRSI0dTLRHHoU) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:49:25 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_6xUrp1iP4QYJ3H) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:49:32 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_B6ENhKVdIGldoy) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:49:49 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_nRI4s1juzlUoou) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:50:08 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_5NeHNUDFoeyLyC) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:50:11 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_dJH4dLtIWRepfK) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:50:31 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ffDABhyIN6aO79) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:50:32 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_jPBMd2kJMYcUzU) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:50:59 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_1OAqRqYqjlONUH) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:51:14 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_LUtUI72MSQgcVO) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:51:28 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_GZRl8PxFmjbd5w) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 13:52:35 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_nWO0EBeiGFxgF3) Your card is not supported.
+  thrown in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[09-Mar-2023 14:01:27 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[16-Mar-2023 04:11:11 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[16-Mar-2023 04:11:15 UTC] PHP Notice:  Undefined index: id in /home/vsqyog53hn65/public_html/testing.isocare.in/paymentTest/index.php on line 281
+[25-Apr-2023 06:51:59 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php on line 22
+[15-May-2023 06:21:20 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_sPTbRwDxncrebu) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-May-2023 11:57:58 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php on line 22
+[17-May-2023 11:59:03 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php on line 22
+[17-May-2023 12:22:50 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_Q7IA7EC2xAmy4L) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-May-2023 12:42:11 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ZG1ympcB5Hfc9r) Your card's expiration year is invalid.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[17-May-2023 12:44:58 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_SYDW80SG7YCaPi) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[19-May-2023 10:04:02 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_5W7OdVdiIH8qhN) Could not find payment information
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[19-May-2023 10:13:52 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_xO2K5DiJ0ScxmO) Could not find payment information
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[22-May-2023 05:03:11 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_WP9IbH9DmK5eDZ) Could not find payment information
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[22-May-2023 06:51:19 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_yobZx4TqKPyDGN) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[22-May-2023 06:52:43 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_zGVE0Ft2T72Y55) Could not find payment information
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[22-May-2023 08:14:59 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php on line 22
+[22-May-2023 08:15:38 UTC] PHP Fatal error:  Uncaught TypeError: Unsupported operand types: string * int in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php:22
+Stack trace:
+#0 {main}
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/axios.php on line 22
+[22-May-2023 08:18:19 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_I8YKmIhEOLCbZr) Could not find payment information
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[23-May-2023 07:19:02 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_NCnTGcYAzSFsCN) Could not find payment information
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[23-May-2023 07:20:27 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_W10ur7jtfqqi2l) Your card was declined. Your request was in test mode, but used a non test (live) card. For a list of valid test cards, visit: https://stripe.com/docs/testing.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[23-May-2023 11:56:43 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_m1EJIF9mURvSdq) Your card's expiration year is invalid.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-May-2023 11:39:21 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_5SJWGavjO9nEyt) Your card's expiration year is invalid.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-May-2023 11:50:29 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_ifusa0qgBJFMVm) Your card's expiration year is invalid.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-May-2023 11:52:05 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_4erHO3EJSXPUW7) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-May-2023 12:29:52 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_GtfJDee8FpjVZB) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-May-2023 12:30:48 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_fusZVIYS6g1chY) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-May-2023 12:32:54 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_QuvglrNLRSKYzL) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[25-May-2023 15:42:44 UTC] PHP Fatal error:  Uncaught (Status 400) (Request req_TvzzyW1FJrTI48) Could not find payment information
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38
+[26-May-2023 04:26:29 UTC] PHP Fatal error:  Uncaught (Status 402) (Request req_XBODQplDQvnlIE) Your card number is incorrect.
+  thrown in /home3/techie1b/public_html/gforce/admin/paymenttest/vendor/stripe/stripe-php/lib/Exception/ApiErrorException.php on line 38

@@ -1,0 +1,153 @@
+{
+  "menu": [
+    {
+      "url": "/dashbord",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+    {
+      "name": "Appointments",
+      "icon": "menu-icon tf-icons bx bx-collection",
+      "slug": "appointment",
+      "submenu": [
+        {
+          "url": "/appointment-view",
+          "name": "View Appointments",
+          "slug": "appointment-view"
+        },
+        {
+          "url": "/appointment-status",
+          "name": "Appointment Status",
+          "slug": "appointment-status"
+        },
+        {
+          "url": "/appointment-clientList",
+          "name": "Client's List",
+          "slug": "appointment-clientList"
+        }
+      ]
+    },
+    {
+      "name": "Media",
+      "icon": "menu-icon tf-icons bx bx-image",
+      "slug": "media",
+      "url": "/all-media"
+    },
+    {
+      "name": "Request Callback",
+      "icon": "menu-icon tf-icons bx bx-phone",
+      "slug": "callback",
+      "url": "/callback"
+    },
+    {
+      "menuHeader": "Accounts"
+    },
+    {
+      "name": "Users",
+      "icon": "menu-icon tf-icons bx bx bx-dock-top",
+      "slug": "user",
+      "submenu": [
+        {
+          "url": "/user-all",
+          "name": "All Users",
+          "slug": "user-all"
+        },
+        {
+          "url": "/user-new",
+          "name": "New User",
+          "slug": "user-new"
+        },
+        {
+          "url": "/user-agentTimeSlot",
+          "name": "Agent Timeslot",
+          "slug": "user-agentTimeSlot"
+        }
+      ]
+    },
+    {
+      "name": "Role",
+      "icon": "menu-icon tf-icons bx bx-lock-open-alt",
+      "slug": "role",
+      "submenu": [
+        {
+          "url": "/role-all",
+          "name": "All Roles",
+          "slug": "role-all"
+        },
+        {
+          "url": "/role-new",
+          "name": "New Role",
+          "slug": "role-new"
+        }
+      ]
+    },
+    {
+      "menuHeader": "Projects Listing"
+    },
+    {
+      "name": "Projects",
+      "icon": "menu-icon tf-icons bx bx-box",
+      "slug": "project",
+      "submenu": [
+        {
+          "url": "/project-all",
+          "name": "All Projects",
+          "slug": "project-all"
+        },
+        {
+          "url": "/project-allPropertiesView",
+          "name": "All Properties",
+          "slug": "project-allPropertiesView"
+        },
+        {
+          "url": "/project-addProperty",
+          "name": "New Property",
+          "slug": "project-addProperty"
+        },
+        {
+          "url": "/project-propertyType",
+          "name": "Property Type",
+          "slug": "project-propertyType"
+        },
+        {
+          "url": "/project-propertyStatus",
+          "name": "Property Status",
+          "slug": "project-propertyStatus"
+        }
+      ]
+    },
+    {
+      "menuHeader": "Blogs"
+    },
+    {
+      "name": "Blogs",
+      "icon": "menu-icon tf-icons bx bx-box",
+      "slug": "blog",
+      "submenu": [
+        {
+          "url": "/blog-allblogs",
+          "name": "All Blogs",
+          "slug": "blog-allblogs"
+        },
+        {
+          "url": "/blog-newblog",
+          "name": "New Blog",
+          "slug": "blog-newblog"
+        },
+
+        {
+          "url": "/blog-blogcategory",
+          "name": "Blog Category",
+          "slug": "blog-blogcategory"
+        }
+      ]
+    },
+    {
+      "name": "Public Holiday",
+      "icon": "menu-icon tf-icons bx bx-collection",
+      "slug": "public-holiday",
+      "url": "/public-holiday"
+    }
+  ]
+}

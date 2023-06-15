@@ -1,0 +1,288 @@
+{
+  "menu": [
+    {
+      "url": "/dashbord",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+
+    {
+      "menuHeader": "Products"
+    },
+    {
+      "url": "/getAllProduct",
+      "name": "Product",
+      "icon": "menu-icon tf-icons bx  bx-package",
+      "slug": "getAllProduct"
+    },
+    {
+      "url": "/addProduct",
+      "name": "Add Product",
+      "icon": "menu-icon tf-icons bx bx-plus-circle",
+      "slug": "addProduct"
+    },
+    {
+      "menuHeader": "Packages"
+    },
+    {
+      "url": "/allPackage",
+      "name": "Package",
+      "icon": "menu-icon tf-icons bx  bx-package",
+      "slug": "allPackage"
+    },
+    {
+      "url": "/addPackage",
+      "name": "Add Package",
+      "icon": "menu-icon tf-icons bx bx-plus-circle",
+      "slug": "addPackage"
+    },
+    {
+      "menuHeader": "Projects Classes"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-box",
+      "url": "/projectClassAll",
+      "name": "Projects Classes",
+      "slug": "projectClassAll"
+    },
+
+    {
+      "icon": "menu-icon tf-icons bx bx-box",
+      "url": "/allOpenClassesView",
+      "name": "Open Classes",
+      "slug": "allOpenClassesView"
+    },
+
+    {
+      "icon": "menu-icon tf-icons bx bx-user",
+      "url": "/allStudentsView",
+      "name": "Students",
+      "slug": "allStudentsView"
+    },
+
+    {
+      "icon": "menu-icon tf-icons bx bx-wallet",
+      "url": "/allPayments",
+      "name": "Payments",
+      "slug": "allPayments"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-user-check",
+      "url": "/allAttendence",
+      "name": "Attendance",
+      "slug": "allAttendence"
+    },
+    {
+      "menuHeader": "Workshop"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-box",
+      "url": "/allWorkshopView",
+      "name": "Workshop",
+      "slug": "allWorkshopView"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-plus-circle",
+      "url": "/workshopAdd",
+      "name": "Add Workshop",
+      "slug": "workshopAdd"
+    },
+    {
+      "menuHeader": "Trainer"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-user",
+      "url": "/allTrainerView",
+      "name": "Trainer",
+      "slug": "allTrainerView"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-plus-circle",
+      "url": "/trainerAdd",
+      "name": "Add Trainer",
+      "slug": "trainerAdd"
+    },
+
+    {
+      "menuHeader": "Booking Enquries"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-list-ul",
+      "url": "/allBookingView",
+      "name": "Booking",
+      "slug": "allBookingView"
+    },
+
+    {
+      "icon": "menu-icon tf-icons bx bx-envelope",
+      "url": "/allContactusView",
+      "name": "Contact-us",
+      "slug": "allContactusView"
+    },
+
+    {
+      "icon": "menu-icon tf-icons bx bx-envelope",
+      "url": "/allCarrerView",
+      "name": "Career",
+      "slug": "allCarrerView"
+    },
+    
+    {
+      "icon": "menu-icon tf-icons bx bx-envelope",
+      "url": "/allNewsView",
+      "name": "Newsletter",
+      "slug": "allNewsView"
+    },
+   
+    
+    {
+      "menuHeader": "Achievement"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-briefcase",
+      "url": "/achievement",
+      "name": "Achievement",
+      "slug": "achievement"
+    },
+    
+    {
+      "menuHeader": "Schedule"
+    },
+    {
+      "icon": "menu-icon tf-icons bx bx-time",
+      "url": "/classSchedule",
+      "name": "Schedule",
+      "slug": "classSchedule"
+    },
+
+    {
+      "menuHeader": "Job Positions"
+    },
+    {
+      "name": "JobPositions",
+      "icon": "menu-icon tf-icons bx bx-briefcase",
+      "slug": "JobPositions",
+      "submenu": [
+        {
+          "url": "/jobposition-alljobposition",
+          "name": "Job Positions",
+          "slug": "jobposition-alljobposition"
+        },
+        {
+          "url": "/jobposition-newjobposition",
+          "name": "Add Job Position",
+          "slug": "jobposition-newjobposition"
+        },
+
+        {
+          "url": "/jobposition-jobpositioncategory",
+          "name": "Job Position Category",
+          "slug": "jobposition-jobpositioncategory"
+        }
+      ]
+    },
+     {
+      "menuHeader": "Online School Video"
+    },
+    {
+      "name": " Online School Video",
+      "icon": "menu-icon tf-icons bx bx-box",
+      "slug": "Online School Video",
+      "submenu": [
+        {
+          "url": "/school",
+          "name": "School Video",
+          "slug": "school"
+        },
+        {
+          "url": "/add-school",
+          "name": "New Video",
+          "slug": "add-school"
+        },
+
+        {
+          "url": "/schoolcategory",
+          "name": "Category",
+          "slug": "schoolcategory"
+        }
+      ]
+    },
+
+    {
+      "menuHeader": "Blogs"
+    },
+    {
+      "name": "Blogs",
+      "icon": "menu-icon tf-icons bx bxl-blogger",
+      "slug": "blog",
+      "submenu": [
+        {
+          "url": "/blog-allblogs",
+          "name": "Blogs",
+          "slug": "blog-allblogs"
+        },
+        {
+          "url": "/blog-newblog",
+          "name": "Add Blog",
+          "slug": "blog-newblog"
+        },
+
+        {
+          "url": "/blog-blogcategory",
+          "name": "Blog Category",
+          "slug": "blog-blogcategory"
+        }
+      ]
+    },
+    {
+      "name": "Pages",
+      "icon": "menu-icon tf-icons bx bx-list-ul",
+      "slug": "pages",
+      "submenu": [
+        {
+          "url": "/pages-privacy",
+          "name": "Privacy Policy",
+          "slug": "pages-privacy"
+        },
+        {
+          "url": "/pages-term_condetion",
+          "name": "Term and Conditions",
+          "slug": "pages-term_condetion"
+        },
+        {
+          "url": "/pages-school_banner",
+          "name": "Online School",
+          "slug": "pages-school_banner"
+        },
+        {
+          "url": "/pages-founding_director",
+          "name": "Founding Director",
+          "slug": "pages-founding_director"
+        },
+        
+        {
+          "url": "/pages-performing_artist",
+          "name": "Performing Artist",
+          "slug": "pages-performing_artist"
+        },
+         {
+          "url": "/pages-show_runner",
+          "name": "Show Runner",
+          "slug": "pages-show_runner"
+        },
+         {
+          "url": "/pages-choreographers",
+          "name": "Choreographers/Teachers",
+          "slug": "pages-choreographers"
+        }
+      ]
+    },
+    {
+      "name": "Settings",
+      "icon": "menu-icon tf-icons bx bx-cog",
+      "slug": "setting",
+      "url": "/setting"
+    }
+  ]
+}
